@@ -9,8 +9,8 @@
 </p>
 <p><strong>Touches directionnelles (clavier) / Stick gauche (manette PS4)&nbsp;:</strong>
 &nbsp;déplacement du personnage (exploration) / navigation menu&nbsp; (combat)</p>
-<p><strong>Touche D&nbsp;(clavier)</strong><strong>&nbsp;/ Rond (manette PS4)&nbsp;:&nbsp;</strong><br>courir (exploration) / annuler (combat) &nbsp;</p>
-<p><strong>Entrée (clavier) / Croix (manette PS4)&nbsp;:</strong><br> action (exploration) /&nbsp;sélection menu (combat)</p>
+<p><strong>Touche D&nbsp;(clavier)</strong><strong>&nbsp;/ Rond (manette PS4)&nbsp;:&nbsp;</strong>courir (exploration) / annuler (combat) &nbsp;</p>
+<p><strong>Entrée (clavier) / Croix (manette PS4)&nbsp;:</strong> action (exploration) /&nbsp;sélection menu (combat)</p>
 
   ![Sans titre2](https://user-images.githubusercontent.com/101068638/179541263-2e025b55-7e2c-460c-9173-2e8e5e8ea951.png)
   ![Sans titre3](https://user-images.githubusercontent.com/101068638/179541275-8c6c90bb-8585-41a9-ab5f-951aa5f9a8c7.png)
