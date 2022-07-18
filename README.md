@@ -12,3 +12,5 @@
 &nbsp;déplacement du personnage (exploration) / navigation menu&nbsp; (combat)</p>
 <p><strong>Touche D&nbsp;(clavier)</strong><strong>&nbsp;/ Rond (manette PS4)&nbsp;:&nbsp;</strong><br>courir (exploration) / annuler (combat) &nbsp;</p>
 <p><strong>Entrée (clavier) / Croix (manette PS4)&nbsp;:</strong><br> action (exploration) /&nbsp;sélection menu (combat)</p>
+
+[google] (http://www.google.com "link to google")
