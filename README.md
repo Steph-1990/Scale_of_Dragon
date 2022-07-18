@@ -13,4 +13,5 @@
 <p><strong>Touche D&nbsp;(clavier)</strong><strong>&nbsp;/ Rond (manette PS4)&nbsp;:&nbsp;</strong><br>courir (exploration) / annuler (combat) &nbsp;</p>
 <p><strong>Entrée (clavier) / Croix (manette PS4)&nbsp;:</strong><br> action (exploration) /&nbsp;sélection menu (combat)</p>
 
-[google] (http://www.google.com "link to google")
+
+![Sans titre](https://user-images.githubusercontent.com/101068638/179540857-75f2f682-5863-4a98-8f2a-dd40b426211b.png)
