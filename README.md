@@ -6,7 +6,9 @@
 <p>Le jeu proposera également un mode rage dont la jauge augmente au fur et à mesure des dégâts subis et permettant au choix, d'augmenter les dégâts et la défense du personnage durant quelques tours ou bien de lancer une super attaque entraînant la fin immédiate du mode rage, super attaque dont les dégâts sont basés sur un combo de touche aléatoire avec un certain timing.
   
   ![Sans titre](https://user-images.githubusercontent.com/101068638/179540857-75f2f682-5863-4a98-8f2a-dd40b426211b.png)
-  
+  ![Sans titre2](https://user-images.githubusercontent.com/101068638/179541263-2e025b55-7e2c-460c-9173-2e8e5e8ea951.png)
+  ![Sans titre3](https://user-images.githubusercontent.com/101068638/179541275-8c6c90bb-8585-41a9-ab5f-951aa5f9a8c7.png)
+
   </p>
 <p>Plusieurs personnages viendront prêter main forte à notre héros durant son aventure mais seulement trois pourront être jouables lors des combats. En plus de l'expérience, le joueur obtiendra également des pièces d'or lui permettant d'acheter des nouveaux équipements et ainsi renforcer les statistiques de ses personnages. Dans cette présentation trois personnages jouables sont disponibles, un guerrier, un mage et un voleur avec des capacités qui leur sont propres. Au bout d'un certain nombre de niveaux gagnés, les personnages se verront attribuer de nouvelles capacités propres à leur style de combat.</p>
 <p><strong><u>Comment jouer ?</u></strong>
